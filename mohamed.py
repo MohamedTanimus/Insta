@@ -25,12 +25,12 @@ def j(z):
         sys.stdout.flush()
         time.sleep(3/5000)
         
-MSalah ="MSalah"
+Msalah ="Msalah"
 
 for i in range (999999) : 
       pwd = input ("PASSWORD : ")
       j = 9999999
-      if ( pwd==MSalah ) : 
+      if ( pwd==Msalah ) : 
               print (" Welcoem To Script   ") 
               break    
 def jalan(z):
